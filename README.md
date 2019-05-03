@@ -40,8 +40,8 @@ After we conduct three analysis on different number of bedrooms apt to explore t
 
 ![](https://github.com/cye2277/Final_Project/blob/master/image%20for%20project/Screen%20Shot%202019-05-03%20at%203.37.33%20PM.png)  
 
-Correlation between the number of 1b apartments on airbnb and the price of long term rental 1b apartment.
 ![](https://github.com/cye2277/Final_Project/blob/master/image%20for%20project/Screen%20Shot%202019-05-03%20at%203.37.47%20PM.png)  
+Correlation between the number of 1b apartments on airbnb and the price of long term rental 1b apartment.
 
 ###2b apartment
 -------------------
@@ -50,8 +50,8 @@ Correlation between the number of 1b apartments on airbnb and the price of long 
 ![](https://github.com/cye2277/Final_Project/blob/master/image%20for%20project/Screen%20Shot%202019-05-03%20at%203.38.12%20PM.png)  
 
 
-Correlation between the number of 2b apartments on airbnb and the price of long term rental 2b apartment.
 ![](https://github.com/cye2277/Final_Project/blob/master/image%20for%20project/Screen%20Shot%202019-05-03%20at%203.38.20%20PM.png)  
+Correlation between the number of 2b apartments on airbnb and the price of long term rental 2b apartment.
 
 
 3b apartment
@@ -60,9 +60,10 @@ Correlation between the number of 2b apartments on airbnb and the price of long 
 
 ![](https://github.com/cye2277/Final_Project/blob/master/image%20for%20project/Screen%20Shot%202019-05-03%20at%203.38.35%20PM.png)  
 
-
-Correlation between the number of 3b apartments on airbnb and the price of long term rental 3b apartment.
 ![](https://github.com/cye2277/Final_Project/blob/master/image%20for%20project/Screen%20Shot%202019-05-03%20at%203.38.41%20PM.png)  
+Correlation between the number of 3b apartments on airbnb and the price of long term rental 3b apartment.
+
+
 Future work: 
 -------------------------
 
