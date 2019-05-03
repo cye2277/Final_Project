@@ -57,6 +57,7 @@ Future work:
 In order to prove the causation of airbnb and long term rental rate and housing price. We will try to control the unobserved factor in the dataset. 
 
 1.Control Zip-code level effect to compare the area that has airbnb housing and the areas that does not have airbnb housing. 
+
 2.Control Arbitrary city level time trends, such as popularity, economic growth rate of specific city, to eliminate other factors that we do not want to involve in. 
 
 After eliminate those factors we can see the real effect that airbnb put on the long term rental rate market and housing market.
