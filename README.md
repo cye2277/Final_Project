@@ -34,7 +34,23 @@ After we conduct three analysis on different number of bedrooms apt to explore t
 
 2.Among all type of apratments (1b, 2b or 3b), there are no obvious correlation between the price of airbnb and the price of long term rental rate on Zillow.
 
+![](https://github.com/cye2277/Final_Project/blob/master/image%20for%20project/Screen%20Shot%202019-05-03%20at%203.37.25%20PM.png)  
 
+![](https://github.com/cye2277/Final_Project/blob/master/image%20for%20project/Screen%20Shot%202019-05-03%20at%203.37.33%20PM.png)  
+
+![](https://github.com/cye2277/Final_Project/blob/master/image%20for%20project/Screen%20Shot%202019-05-03%20at%203.37.47%20PM.png)  
+
+![](https://github.com/cye2277/Final_Project/blob/master/image%20for%20project/Screen%20Shot%202019-05-03%20at%203.38.02%20PM.png)  
+
+![](https://github.com/cye2277/Final_Project/blob/master/image%20for%20project/Screen%20Shot%202019-05-03%20at%203.38.12%20PM.png)  
+
+![](https://github.com/cye2277/Final_Project/blob/master/image%20for%20project/Screen%20Shot%202019-05-03%20at%203.38.20%20PM.png)  
+
+![](https://github.com/cye2277/Final_Project/blob/master/image%20for%20project/Screen%20Shot%202019-05-03%20at%203.38.28%20PM.png)  
+
+![](https://github.com/cye2277/Final_Project/blob/master/image%20for%20project/Screen%20Shot%202019-05-03%20at%203.38.35%20PM.png)  
+
+![](https://github.com/cye2277/Final_Project/blob/master/image%20for%20project/Screen%20Shot%202019-05-03%20at%203.38.41%20PM.png)  
 Future work: 
 -------------------------
 
